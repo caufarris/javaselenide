@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f6921715-c0a1-4670-9375-ee026aaefc49" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="ninjaplus" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1UDayTngmiyl4Aa18tz0g0SF2hS" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="ignore.virus.scanning.warn.message" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\papito\IdeaProjects\ninjaplus\src\main\resources\cover" />
+      <recent name="C:\Users\papito\IdeaProjects\ninjaplus\src\test\java\pages" />
+      <recent name="C:\Users\papito\IdeaProjects\ninjaplus\src\test\java\tests" />
+      <recent name="C:\Users\papito\IdeaProjects\ninjaplus\src\test\java\models" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.MovieTests.shoudlRegisterANewMovie">
+    <configuration name="LoginTests" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ninjaplus" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.LoginTests" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MovieTests" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ninjaplus" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.MovieTests" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MovieTests.shoudlRegisterANewMovie (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ninjaplus" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.MovieTests" />
+      <option name="METHOD_NAME" value="shoudlRegisterANewMovie" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MovieTests.shoudlRegisterANewMovie (3)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ninjaplus" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.MovieTests" />
+      <option name="METHOD_NAME" value="shoudlRegisterANewMovie" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MovieTests.shoudlRegisterANewMovie" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ninjaplus" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.MovieTests" />
+      <option name="METHOD_NAME" value="shoudlRegisterANewMovie" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.MovieTests.shoudlRegisterANewMovie" />
+        <item itemvalue="TestNG.MovieTests" />
+        <item itemvalue="TestNG.MovieTests.shoudlRegisterANewMovie (1)" />
+        <item itemvalue="TestNG.MovieTests.shoudlRegisterANewMovie (3)" />
+        <item itemvalue="TestNG.LoginTests" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f6921715-c0a1-4670-9375-ee026aaefc49" name="Default Changelist" comment="" />
+      <created>1574893874506</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574893874506</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="179" key="#Project_Structure" timestamp="1576964603027">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="179" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1576964603027" />
+    <state x="92" y="92" width="1736" height="856" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1575654673432">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1575654673432" />
+    <state x="765" y="237" key="#com.intellij.ide.util.MemberChooser" timestamp="1576965003335">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="237" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1576965003335" />
+    <state x="667" y="324" width="585" height="406" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1577539965816">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="667" y="324" width="585" height="406" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1040@0.0.1920.1040" timestamp="1577539965816" />
+    <state width="509" height="657" key="DebuggerActiveHint" timestamp="1579027955497">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="509" height="657" key="DebuggerActiveHint/0.0.1920.1040@0.0.1920.1040" timestamp="1579027955497" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1576964600318">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1576964600318" />
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1579968312925">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728/-199.-1080.1920.1040@0.0.1366.728" timestamp="1579968312925" />
+    <state width="1853" height="303" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1579729547261" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1579968312925">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728/-199.-1080.1920.1040@0.0.1366.728" timestamp="1579968312925" />
+    <state width="1853" height="303" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1579729547260" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1579968312925">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728/-199.-1080.1920.1040@0.0.1366.728" timestamp="1579968312925" />
+    <state width="1853" height="303" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1579729547260" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1579968312925">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728/-199.-1080.1920.1040@0.0.1366.728" timestamp="1579968312925" />
+    <state width="1853" height="303" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1579729547260" />
+    <state width="1853" height="311" key="GridCell.Tab.1.bottom" timestamp="1579725822332">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1853" height="311" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1579725822332" />
+    <state width="1853" height="311" key="GridCell.Tab.1.center" timestamp="1579725822331">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1853" height="311" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1579725822331" />
+    <state width="1853" height="311" key="GridCell.Tab.1.left" timestamp="1579725822331">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1853" height="311" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1579725822331" />
+    <state width="1853" height="311" key="GridCell.Tab.1.right" timestamp="1579725822331">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1853" height="311" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1579725822331" />
+    <state x="386" y="68" width="1333" height="883" key="SettingsEditor" timestamp="1576971978517">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="386" y="68" width="1333" height="883" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1576971978517" />
+    <state x="464" y="0" width="1115" height="1040" key="find.popup" timestamp="1579025900872">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="464" y="0" width="1115" height="1040" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1579025900872" />
+  </component>
+</project>
