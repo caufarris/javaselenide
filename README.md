@@ -1,6 +1,5 @@
 <<<<<<< HEAD
-# Automação de testes Linguagem: Java - Framework: selenide -
+# Automação Web
+Linguagem: Java
+Framework: Selenide
 =======
-# javaselenide
-
-Framework Selenide
