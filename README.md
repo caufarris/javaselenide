@@ -1,5 +1,5 @@
 <<<<<<< HEAD
 # Automação Web
-Linguagem: Java
-Framework: Selenide
+# Linguagem: Java
+# Framework: Selenide
 =======
